@@ -1,0 +1,37 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\DataObjects.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\DataObjects.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\obj\Debug\DataObjects.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\obj\Debug\DataObjects.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\AutoMapper.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\AutoMapper.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\Castle.Core.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\Moq.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\Castle.Core.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\Moq.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\aspnet-Presentation-20170325102429.mdf
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\aspnet-Presentation-20170325102429_log.ldf
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\bin\Debug\DataObjects.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\bin\Debug\DataObjects.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\bin\Debug\AutoMapper.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\bin\Debug\BusinessObjects.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\bin\Debug\AutoMapper.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\bin\Debug\Castle.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\DataObjects\obj\Debug\DataObjects.pdb
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\bin\Debug\DataObjects.dll.config
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\bin\Debug\DataObjects.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\bin\Debug\DataObjects.pdb
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\bin\Debug\BusinessObjects.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\bin\Debug\Castle.Core.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\bin\Debug\BusinessObjects.pdb
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\bin\Debug\AutoMapper.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\bin\Debug\Castle.Core.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\obj\Debug\DataObjects.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\DataObjects\obj\Debug\DataObjects.pdb

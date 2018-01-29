@@ -1,0 +1,105 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation Layer", "1. Presentation Layer", "{F7F82387-A77E-4C2A-B760-500278CF7CA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Service Layer", "2. Service Layer", "{77AA4048-1678-4BEF-A9E4-E6CCA84918EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Business Layer", "4. Business Layer", "{BCC50DE7-2EC3-42C2-ABF8-AE8ECF2032D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data Layer", "5. Data Layer", "{CAEF9946-9FB3-4B2B-9D5E-C652D3D85DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjects", "DataObjects\DataObjects.csproj", "{0BB7F1C4-D792-4567-B13B-0C908C8982CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObjects", "BusinessObjects\BusinessObjects.csproj", "{6273C03F-44F4-4434-8D47-945EFC1E2608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation.Tests", "Presentation.Tests\Presentation.Tests.csproj", "{CB401790-622E-413D-866A-04889E9F4CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{7F359B17-4181-4DD1-9AB2-11EEF612D291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriminalSearchService", "CriminalSearchService\CriminalSearchService.csproj", "{E86F36DC-B51F-4E5A-A6C5-ADAFB6007D13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Infrastructure Layer", "3.Infrastructure Layer", "{5EF4B264-5F31-445F-B07A-2D7808FB6CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{AEBD0B02-AF72-4289-9F9F-3D73267A6E61}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Service.Host(1)", "http://localhost:16697", "{4DBE8355-3862-4DAA-B4EE-05C1D4EEC35D}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{e86f36dc-b51f-4e5a-a6c5-adafb6007d13}|CriminalSearchService.dll;{6273C03F-44F4-4434-8D47-945EFC1E2608}|BusinessObjects.dll;{0BB7F1C4-D792-4567-B13B-0C908C8982CC}|DataObjects.dll;{AEBD0B02-AF72-4289-9F9F-3D73267A6E61}|Infrastructure.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_16697"
+		Debug.AspNetCompiler.PhysicalPath = "Service.Host\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16697\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_16697"
+		Release.AspNetCompiler.PhysicalPath = "Service.Host\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16697\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Service.Host\"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77751319-FF04-4298-B3C9-36AEA3F3EB35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Db Script", "Db Script", "{3049CBE9-D696-45B3-A97B-C510F7FC83AA}"
+	ProjectSection(SolutionItems) = preProject
+		F:\Gulfraz\Books\CrossOver\SQL Script.sql = F:\Gulfraz\Books\CrossOver\SQL Script.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB7F1C4-D792-4567-B13B-0C908C8982CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB7F1C4-D792-4567-B13B-0C908C8982CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB7F1C4-D792-4567-B13B-0C908C8982CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB7F1C4-D792-4567-B13B-0C908C8982CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6273C03F-44F4-4434-8D47-945EFC1E2608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6273C03F-44F4-4434-8D47-945EFC1E2608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6273C03F-44F4-4434-8D47-945EFC1E2608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6273C03F-44F4-4434-8D47-945EFC1E2608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB401790-622E-413D-866A-04889E9F4CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB401790-622E-413D-866A-04889E9F4CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB401790-622E-413D-866A-04889E9F4CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB401790-622E-413D-866A-04889E9F4CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F359B17-4181-4DD1-9AB2-11EEF612D291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F359B17-4181-4DD1-9AB2-11EEF612D291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F359B17-4181-4DD1-9AB2-11EEF612D291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F359B17-4181-4DD1-9AB2-11EEF612D291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E86F36DC-B51F-4E5A-A6C5-ADAFB6007D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86F36DC-B51F-4E5A-A6C5-ADAFB6007D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86F36DC-B51F-4E5A-A6C5-ADAFB6007D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86F36DC-B51F-4E5A-A6C5-ADAFB6007D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBD0B02-AF72-4289-9F9F-3D73267A6E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBD0B02-AF72-4289-9F9F-3D73267A6E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBD0B02-AF72-4289-9F9F-3D73267A6E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBD0B02-AF72-4289-9F9F-3D73267A6E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBE8355-3862-4DAA-B4EE-05C1D4EEC35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBE8355-3862-4DAA-B4EE-05C1D4EEC35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBE8355-3862-4DAA-B4EE-05C1D4EEC35D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBE8355-3862-4DAA-B4EE-05C1D4EEC35D}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BB7F1C4-D792-4567-B13B-0C908C8982CC} = {CAEF9946-9FB3-4B2B-9D5E-C652D3D85DC5}
+		{6273C03F-44F4-4434-8D47-945EFC1E2608} = {BCC50DE7-2EC3-42C2-ABF8-AE8ECF2032D6}
+		{CB401790-622E-413D-866A-04889E9F4CAB} = {F7F82387-A77E-4C2A-B760-500278CF7CA0}
+		{7F359B17-4181-4DD1-9AB2-11EEF612D291} = {F7F82387-A77E-4C2A-B760-500278CF7CA0}
+		{E86F36DC-B51F-4E5A-A6C5-ADAFB6007D13} = {77AA4048-1678-4BEF-A9E4-E6CCA84918EB}
+		{AEBD0B02-AF72-4289-9F9F-3D73267A6E61} = {5EF4B264-5F31-445F-B07A-2D7808FB6CEB}
+		{4DBE8355-3862-4DAA-B4EE-05C1D4EEC35D} = {77AA4048-1678-4BEF-A9E4-E6CCA84918EB}
+		{3049CBE9-D696-45B3-A97B-C510F7FC83AA} = {77751319-FF04-4298-B3C9-36AEA3F3EB35}
+	EndGlobalSection
+EndGlobal

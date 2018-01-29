@@ -1,0 +1,99 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\obj\Debug\Presentation.Tests.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\bin\Debug\Presentation.Tests.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\bin\Debug\Presentation.Tests.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\bin\Debug\Moq.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\bin\Debug\Castle.Core.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\bin\Debug\Moq.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\bin\Debug\Castle.Core.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\obj\Debug\Presentation.Tests.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\obj\Debug\Presentation.Tests.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\bin\Debug\BusinessObjects.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\Presentation.Tests\bin\Debug\BusinessObjects.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\obj\Debug\Presentation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Presentation.Tests.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Presentation.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Presentation.Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\BusinessObjects.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Moq.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Presentation.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Owin.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\BusinessObjects.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Presentation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Moq.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\obj\Debug\Presentation.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\obj\Debug\Presentation.Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Presentation.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Presentation.Tests.dll.config
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Presentation.Tests.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Presentation.Tests.pdb
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\BusinessObjects.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Presentation.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Owin.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\EntityFramework.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Castle.Core.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.Razor.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\BusinessObjects.pdb
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Presentation.pdb
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Moq.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\EntityFramework.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\Castle.Core.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.Razor.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\obj\Debug\Presentation.Tests.csprojResolveAssemblyReference.cache
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\obj\Debug\Presentation.Tests.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Presentation.Tests\obj\Debug\Presentation.Tests.pdb

@@ -1,0 +1,20 @@
+c:\users\hazar.hayat\documents\visual studio 2015\Projects\CriminalSearch\Infrastructure\bin\Debug\Infrastructure.dll
+c:\users\hazar.hayat\documents\visual studio 2015\Projects\CriminalSearch\Infrastructure\bin\Debug\Infrastructure.pdb
+c:\users\hazar.hayat\documents\visual studio 2015\Projects\CriminalSearch\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\hazar.hayat\documents\visual studio 2015\Projects\CriminalSearch\Infrastructure\obj\Debug\Infrastructure.dll
+c:\users\hazar.hayat\documents\visual studio 2015\Projects\CriminalSearch\Infrastructure\obj\Debug\Infrastructure.pdb
+F:\Gulfraz\Books\CrossOver\CriminalSearch\CriminalSearch\Infrastructure\bin\Debug\Infrastructure.dll
+F:\Gulfraz\Books\CrossOver\CriminalSearch\CriminalSearch\Infrastructure\bin\Debug\Infrastructure.pdb
+F:\Gulfraz\Books\CrossOver\CriminalSearch\CriminalSearch\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+F:\Gulfraz\Books\CrossOver\CriminalSearch\CriminalSearch\Infrastructure\obj\Debug\Infrastructure.dll
+F:\Gulfraz\Books\CrossOver\CriminalSearch\CriminalSearch\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Infrastructure\bin\Debug\Infrastructure.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Infrastructure\obj\Debug\Infrastructure.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\Infrastructure\obj\Debug\Infrastructure.pdb

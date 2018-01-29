@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\BusinessObjects\bin\Debug\BusinessObjects.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\BusinessObjects\bin\Debug\BusinessObjects.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\BusinessObjects\obj\Debug\BusinessObjects.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Prototype\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NationalCriminalDB\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Gulfraz\CrossOver\Gulfraz-CSharpAssignment\Gulfraz-CSharpAssignment\Source\BusinessObjects\obj\Debug\BusinessObjects.pdb

@@ -1,0 +1,157 @@
+﻿@model Presentation.Models.SearchViewModel
+
+@{
+    ViewBag.Title = "Search Criminals";
+}
+
+
+<head>
+    <link href="~/Content/jquery-ui.css" rel="stylesheet" />
+</head>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Submit for search</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Sex, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.RadioButtonFor(m => m.Sex, (int)Presentation.Models.SearchViewModel.Gender.Male, new { htmlAttributes = new { @class = "form-control" }, Checked = "checked" }) Male
+                @Html.RadioButtonFor(m => m.Sex, (int)Presentation.Models.SearchViewModel.Gender.Female, new { htmlAttributes = new { @class = "form-control" } }) Female
+                @Html.ValidationMessageFor(model => model.Sex, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="age" class="control-label col-md-2">Age range:</label>
+            <input type="text" id="age" readonly style="border:0; color:#f6931f; font-weight:bold; margin-left:320px;">
+            <div id="slider-range" style="max-width: 285px; margin-left: 205px; margin-top:-12px;"> </div>
+            @Html.Hidden("AgeTo")
+            @Html.Hidden("AgeFrom")
+        </div>
+
+        <div class="form-group">
+            <label for="height" class="control-label col-md-2">Height range:</label>
+            <input type="text" name="Height" value="Height" id="height" readonly style="border:0; color:#f6931f; font-weight:bold; margin-left:320px;">
+            <div id="heightslider-range" style="max-width: 285px; margin-left: 205px; margin-top:-12px;"> </div>
+            @Html.Hidden("HeightTo")
+            @Html.Hidden("HeightFrom")
+        </div>
+
+        <div class="form-group">
+            <label for="height" class="control-label col-md-2">Weight range:</label>
+            <input type="text" name="Weight" value="Weight" id="weight" readonly style="border:0; color:#f6931f; font-weight:bold; margin-left:320px;">
+            <div id="weightslider-range" style="max-width: 285px; margin-left: 205px; margin-top:-12px;"> </div>
+            @Html.Hidden("WeightTo")
+            @Html.Hidden("WeightFrom")
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Nationality, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Nationality, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nationality, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Search" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<script src="~/Scripts/jquery.js"></script>
+<script src="~/Scripts/jquery-ui.js"></script>
+<script type="text/javascript">
+
+        // Age Slider
+        $("#slider-range").slider({
+            range: true,
+            min: 10,
+            max: 200,
+            values: [20, 50],
+            create: function (event, ui) {
+                $('#AgeTo').val(25);
+                $('#AgeFrom').val(50);
+            },
+            slide: function (event, ui) {
+                $('#AgeTo').val(ui.values[0]);
+                $('#AgeFrom').val(ui.values[1]);
+                $("#age").val(ui.values[0] + " - " + ui.values[1]);
+            }
+        });
+        $("#age").val($("#slider-range").slider("values", 0) +
+          " - " + $("#slider-range").slider("values", 1));
+
+        // Height Slider
+        $("#heightslider-range").slider({
+            range: true,
+            min: 2,
+            max: 10,
+            values: [4, 8],
+            create: function (event, ui) {
+                $('#HeightTo').val(4);
+                $('#HeightFrom').val(8);
+            },
+            slide: function (event, ui) {
+                $('#HeightTo').val(ui.values[0]);
+                $('#HeightFrom').val(ui.values[1]);
+                $("#height").val(ui.values[0] + " - " + ui.values[1]);
+            }
+        });
+        $("#height").val($("#heightslider-range").slider("values", 0) +
+          " - " + $("#heightslider-range").slider("values", 1));
+
+        // Weight Slider
+        $("#weightslider-range").slider({
+            range: true,
+            min: 20,
+            max: 200,
+            values: [40, 120],
+            create: function (event, ui) {
+                $('#WeightTo').val(40);
+                $('#WeightFrom').val(120);
+            },
+            slide: function (event, ui) {
+                $('#WeightTo').val(ui.values[0]);
+                $('#WeightFrom').val(ui.values[1]);
+                $("#weight").val(ui.values[0] + " - " + ui.values[1]);
+            }
+        });
+        $("#weight").val($("#weightslider-range").slider("values", 0) +
+          " - " + $("#weightslider-range").slider("values", 1));
+
+</script>
+
